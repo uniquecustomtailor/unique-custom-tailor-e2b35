@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://unique-custom-tailor-e2b35.pages.dev/sitemap.xml
